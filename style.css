@@ -1,8 +1,32 @@
-header,
-footer {
-    background-color: #1F2937;
+.light {
+    color: #F9FAF8;
 }
 
-.light {
+.mid {
+    color: #E5E8EB;
+}
+
+.dark {
+    color: #1F2937;
+}
+
+.bright {
+    color: #3882F6;
+}
+
+.light-background {
+    background-color: #F9FAF8;
+}
+
+.dark-background {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.mid-background {
     background-color: #E5E8EB;
+}
+
+.bright-background {
+    background-color: #3882F6;
 }
