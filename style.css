@@ -180,3 +180,9 @@ header .button {
 .action p {
     margin: 0;
 }
+
+/*Footer*/
+footer {
+    text-align: center;
+    padding: 30px;
+}
