@@ -55,7 +55,11 @@ h1 {
 }
 
 .button {
+    display: inline-block;
     font-weight: 700;
+    padding: 8px 25px;
+    border-radius: 8px;
+    white-space: nowrap;
 }
 
 h2 {
@@ -172,6 +176,10 @@ header .button {
 .action h3,
 .action p {
     margin: 0;
+}
+
+.action .button {
+    border: 2px solid #F9FAF8
 }
 
 /*Footer*/
