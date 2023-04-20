@@ -162,3 +162,21 @@ header .button {
 .second blockquote {
     margin: 0;
 }
+
+/*Third Panel*/
+.third {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.action {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 70px;
+}
+
+.action h3,
+.action p {
+    margin: 0;
+}
