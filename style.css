@@ -1,4 +1,4 @@
-/*Colors*/
+/*General Rules*/
 .light {
     color: #F9FAF8;
 }
@@ -32,7 +32,6 @@
     background-color: #3882F6;
 }
 
-/*Text Styling*/
 html {
     font-family: 'Roboto', sans-serif;
 }
@@ -104,11 +103,6 @@ nav ul {
     justify-content: space-between;
 }
 
-.container {
-    display: flex;
-    flex-direction: column;
-}
-
 .container h1,
 header .container p {
     margin: 0;
@@ -124,7 +118,6 @@ header .button {
 }
 
 /*Main Content*/
-
 .content {
     display: flex;
     flex-direction: column;
