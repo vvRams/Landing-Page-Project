@@ -30,3 +30,7 @@
 .bright-background {
     background-color: #3882F6;
 }
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
