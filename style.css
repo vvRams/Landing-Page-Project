@@ -101,25 +101,24 @@ nav ul {
     display: flex;
     align-items: center;
     padding: 80px 0px;
+    justify-content: space-between;
 }
 
 .container {
-    flex: 1;
     display: flex;
     flex-direction: column;
 }
 
 .container h1,
-.container p {
+header .container p {
     margin: 0;
 }
 
-.container .button {
+header .button {
     margin-top: 10px;
 }
 
 .hero img {
-    flex: 1;
     background-color: #3882F6;
     align-self: stretch;
 }
