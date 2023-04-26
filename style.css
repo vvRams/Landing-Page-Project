@@ -176,6 +176,7 @@ figcaption {
     justify-content: space-between;
     align-items: center;
     padding: 30px 70px;
+    border-radius: 8px;
 }
 
 .action h3,
@@ -184,7 +185,7 @@ figcaption {
 }
 
 .action .button {
-    border: 2px solid #faf9faF8
+    border: 2px solid #f9faF8;
 }
 
 /*Footer*/
