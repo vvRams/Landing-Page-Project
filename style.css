@@ -1,35 +1,35 @@
 /*General Rules*/
 .light {
-    color: #F9FAF8;
+    color: #faf8f8;
 }
 
 .mid {
-    color: #E5E8EB;
+    color: #ebe5e5;
 }
 
 .dark {
-    color: #1F2937;
+    color: #371f1f;
 }
 
 .bright {
-    color: #3882F6;
+    color: #f63838;
 }
 
 .light-background {
-    background-color: #F9FAF8;
+    background-color: #faf8f8;
 }
 
 .dark-background {
-    background-color: #1F2937;
+    background-color: #371f1f;
     color: #F9FAF8;
 }
 
 .mid-background {
-    background-color: #E5E8EB;
+    background-color: #ebe5e5;
 }
 
 .bright-background {
-    background-color: #3882F6;
+    background-color: #f63838;
 }
 
 html {
@@ -143,7 +143,6 @@ header .button {
 }
 
 .gallery img {
-    background-color: #3882F6;
     min-height: 100px;
     min-width: 100px;
     height: 200px;
