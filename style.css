@@ -115,10 +115,9 @@ header .container p {
 header .button {
     margin-top: 10px;
 }
-
 .hero img {
-    background-color: #3882F6;
-    align-self: stretch;
+    max-width: 400px;
+    max-height: auto;
 }
 
 /*Main Content*/
@@ -146,6 +145,7 @@ header .button {
     background-color: #3882F6;
     min-height: 100px;
     min-width: 100px;
+    height: 200px;
 }
 
 /*Second Panel*/
