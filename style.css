@@ -71,6 +71,7 @@ blockquote {
     font-size: 36px;
     font-weight: 200;
     font-style: italic;
+    white-space: pre-line;
 }
 
 .quote span {
@@ -146,6 +147,10 @@ header .button {
     min-height: 100px;
     min-width: 100px;
     height: 200px;
+}
+
+figcaption {
+    white-space: pre-line;
 }
 
 /*Second Panel*/
