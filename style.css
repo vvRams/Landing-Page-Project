@@ -134,7 +134,7 @@ header .button {
 /*First Panel*/
 .first {
     text-align: center;
-    padding-bottom: 80px;
+    padding: 0 20% 80px;
 }
 
 .gallery {
@@ -158,8 +158,7 @@ figcaption {
 .second {
     display: flex;
     flex-direction: column;
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding: 80px 20%;
 }
 
 .second blockquote {
